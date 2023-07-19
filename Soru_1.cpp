@@ -1,6 +1,7 @@
 ﻿/*
- Aynı değerleri içerebilecek bir dizi verildiğinde, tüm elemanları ve
-bunların frekanslarını yazdıran C kodunu yazınız.
+	Aynı değerleri içerebilen bir dizi verilen tüm elemanları ve frekanslarını yazdıran algoritmanın C kodunu yazın.
+
+ 	Write the C code of the algorithm that prints out all the elements and their frequencies given an array that can contain the same values.
 */
 
 #include <stdio.h>
